@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1097909275999",
+    "firebase_url": "https://com-geet-chat.firebaseio.com",
+    "project_id": "com-geet-chat",
+    "storage_bucket": "com-geet-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097909275999:android:2d5c3115bd03500f",
+        "android_client_info": {
+          "package_name": "geet.com.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097909275999-th647dma3bs2h69f9oci5262eavi4620.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaq3JpuAk8mhRIA0fHWx9Ck7YZNKRmJo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
